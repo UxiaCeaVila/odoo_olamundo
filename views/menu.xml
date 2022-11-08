@@ -1,6 +1,6 @@
 <odoo>
     <data>
-        <menuitem id="main_odoo_olamundo" name="Menu Nivel 0. Ola Mundo"/>
-        <menuitem id="menu_olamundo" name="Menu Nivel 1. Ola Mundo" parent="main_odoo_olamundo" action="olamundo_list_action"/>
+        <menuitem id="main_odoo_olamundo" name="Menu Nivel 0. Uxía"/>
+        <menuitem id="menu_olamundo" name="Menu Nivel 1. Uxia" parent="main_odoo_olamundo" action="olamundo_list_action"/>
     </data>
 </odoo>
